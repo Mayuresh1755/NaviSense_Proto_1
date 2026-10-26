@@ -1,0 +1,6 @@
+{
+    "focal_length": 432.94117647058823,
+    "frame_width": 640,
+    "sample_count": 24,
+    "method": "median_of_calibration_samples"
+}
